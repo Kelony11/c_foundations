@@ -31,3 +31,6 @@ make clean
 
 ### **Notes**
 - Compiles with: gcc -Wall -Wextra -std=c11
+
+### Author
+`Kelivn Ihezue`
