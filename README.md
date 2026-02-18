@@ -1,4 +1,4 @@
-# C Foundations
+# C Foundations 🧮
 
 A small C console project that practices core fundamentals:
 - **arithmetic**
